@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.1.0",
+    "nodemon": "^2.0.20",
+    "razorpay": "^2.8.3",
+    "string-similarity": "^4.0.4"
+  },
+  "name": "razor_pay_backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Djsmk123/meet_app_backend.git"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
